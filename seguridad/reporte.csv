@@ -1,0 +1,4 @@
+Título,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Adobe,adobe.com,2013-10-04,"Email addresses, Password hints, Passwords, Usernames",Sí,No
+Gawker,gawker.com,2010-12-11,"Email addresses, Passwords, Usernames",Sí,No
+Boxee,forums.boxee.com,2014-03-29,"Dates of birth, Email addresses, Geographic locations, Historical passwords, Instant messenger identities, IP addresses, Passwords, Private messages, User website URLs, Usernames",Sí,No
